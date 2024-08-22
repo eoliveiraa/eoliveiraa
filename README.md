@@ -1,8 +1,7 @@
 ## Olá eu sou a Emilly👋
 💡Atualmente estou apredendo sobre HTML
 
-  ## Conhecimentos⭐!
- <br/>
+  ### Conhecimentos⭐!
 <div style="display: inline_block"><br/>
   
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -10,5 +9,6 @@
 
 ### Contatos 📫
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eoliveiraa2007@gmail.com)
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/eoliveiraa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
