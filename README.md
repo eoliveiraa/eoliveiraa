@@ -1,5 +1,5 @@
 ## Olá eu sou a Emilly👋
-💡Atualmente estou apredendo sobre HTML/CSS
+💡Atualmente estou apredendo sobre C#
 
   ### Conhecimentos⭐!
 <div style="display: inline_block"><br/>
