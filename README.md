@@ -1,6 +1,9 @@
 ## Olá eu sou a Emilly👋 
 💡Atualmente estou apredendo sobre C#
 
+![WhatsApp_Image_2024-10-27_at_20 29 09-removebg-preview](https://github.com/user-attachments/assets/12c9588c-37fe-4368-9e97-e22a91e926b8)
+
+
   ### Conhecimentos⭐!
 <div style="display: inline_block"><br/>
   
@@ -13,6 +16,8 @@
 ### Contatos 📫
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eoliveiraa2007@gmail.com)
 <a href= www.linkedin.com/in/eoliveiraa target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br> <br>
+
+
 
 
 </div>
