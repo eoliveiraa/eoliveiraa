@@ -1,5 +1,5 @@
 ## Olá eu sou a Emilly👋 
-📚 Atualmente estou apredendo sobre C#
+✨Atualmente estou apredendo sobre C#
 
 ![WhatsApp_Image_2024-10-27_at_20 29 09-removebg-preview](https://github.com/user-attachments/assets/12c9588c-37fe-4368-9e97-e22a91e926b8)
 
