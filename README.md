@@ -1,4 +1,4 @@
-## Olá eu sou a Emilly👋 
+## Olá, eu sou a Emilly👋 
 ✨Atualmente estou apredendo sobre JavaScript e React
 
 
