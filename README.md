@@ -2,7 +2,11 @@
 
 ✨Explorando o universo do **desenvolvimento full stack**
 
-💡Atualmente estou aprendendo sobre Testes de Software e Deploy
+💡Atualmente estou aprendendo sobre:
+> - Testes de Software
+> - Deploy
+> - React Native
+  
 <img align="right" height="250" src="https://github.com/user-attachments/assets/12c9588c-37fe-4368-9e97-e22a91e926b8" />
 
 ### 🚀 Tecnologias & Ferramentas
