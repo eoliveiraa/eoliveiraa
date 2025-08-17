@@ -25,9 +25,19 @@
 
 
 ### 📈 Estatísticas
-![Emilly GitHub stats](https://github-readme-stats.vercel.app/api?username=eoliveiraa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoliveiraa&layout=compact&theme=radical)
+<img 
+     src="https://github-readme-stats.vercel.app/api?username=eoliveiraa&show_icons=true&theme=radical" 
+     alt="Estatísticas do GitHub da Emilly"
+     height="180em"
+/>
+<br/>
 
+<img 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoliveiraa&layout=compact&theme=radical&langs_count=8" 
+     alt="Linguagens mais usadas incluindo Java"
+     height="180em"
+/>
+<br/>
 
 
 ### 📬 Contatos
