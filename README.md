@@ -4,7 +4,7 @@
 
 💡Atualmente estou aprendendo sobre:
 > - Testes de Software
-> - Deploy
+> - Upload de imagem (BlobStorage)
 > - React Native
   
 <img align="right" height="250" src="https://github.com/user-attachments/assets/12c9588c-37fe-4368-9e97-e22a91e926b8" />
